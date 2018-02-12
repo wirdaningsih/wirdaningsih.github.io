@@ -1,6 +1,6 @@
 body{
     margin: 0 auto;
-    background-color:gray;
+    background-color:color: #E3E3E3; /* very light gray */;
 /*	--------- FONT FAMILY --------
  	following are some optional font families. Usually a family 
 	is safer to choose than a specific font, 
@@ -16,11 +16,11 @@ body{
  	following are additional color options for base font
 	you could uncomment another one to easily change the base color 
 	or add one to a specific element style below         */		
-/   color: #333333; /* dark gray not black */
-/    color: #000000; /* black */
+/    color: #333333; /* dark gray not black */
+     color: #000000; /* black */
 /    color: #666666; /* medium gray  black */	
 /    color: #E3E3E3; /* very light gray */
-     color: #EE82EE; /* violet */
+/    color: #EE82EE; /* violet */
 /    color: white; 
      
 
