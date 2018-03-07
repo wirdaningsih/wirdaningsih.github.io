@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
         
           <span style="width:550; text-align:center">
           <object id="EmbedID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="800" height="650">
@@ -30,3 +33,5 @@
 swfobject.registerObject("EmbedID");
         </script>
           
+</body>
+</html>
