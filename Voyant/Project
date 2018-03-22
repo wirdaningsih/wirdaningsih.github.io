@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<h1>Voyant Visualization Project</h1>
+<h4>Wirda Ningsih</h4>
+<img src="https://wirdaningsih.github.io/Voyant/sherlock%20holmes.png" alt="Sherlock Holmes" width="300" height="200"> 
+<link rel="stylesheet" type="text/css" href="https://wirdaningsih.github.io/secondstyle.css">
 
+<h3>Author's Corner</h3>
+
+<p>Sir Arthur Conan Doyle is famous for his work in detective fiction. One of his famous works features Detective Sherlock Holmes as the main character. He wrote various novels and short stories featuring the detective.</p>
+
+<h3>About this project</h3>
+<p>In this project, focusing on Doyle's detective literary works with Sherlock Holmes as the main character, four novels and three collections of his short stories were analyzed with Voyant tools.</p>
+<ul ul style="list-style-type:circle">
+<li>1887 A Study in Scarlet (Novel)</li>
+<li>1890 The Sign of the Four (Novel)</li>
+<li>1892 The Adventures of Sherlock Holmes (Short stories collection)</li>
+<li>1893 The Memoirs of Sherlock Holmes (Short stories collection)</li>
+<li>1902 The Hound of the Baskervilles (Novel)</li>
+<li>1905 The Return of Sherlock Holmes (Short stories collection)</li>
+<li>1905 The Valley of Fear (Novel)</li>
+</ul>
+
+<p>My first inquiry about this project was I wanted to find out the most frequent word spoken by the main character, Sherlock Holmes, in all the series. However, with Voyant I couldn't really specify my search with this focus. Thus, instead of focusing on the main character only, I used this tool to find out the most frequent verbs used by the author in these series.</p>
+<iframe style='width: 637px; height: 508px;' src='//voyant-tools.org/tool/Cirrus/?corpus=7f2f72e56d799c04b53de74626a9c88d'></iframe>
+The figure above shows the first result of my data search. However, there are some words which are irrelevant with my focus, so I used the stopwords tool and included four words shown in the cirrus (man, sir, holmes, and watson). 
+
+
+ </head>
+</body>
+</html>
