@@ -1,6 +1,6 @@
 body{
     margin: 0 auto;
-    background-color: lavender; 
+   background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
 
 background-size: 100% 1.2em;
 /*	--------- FONT FAMILY --------
