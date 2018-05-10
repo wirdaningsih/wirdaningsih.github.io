@@ -1,14 +1,13 @@
 body{
     margin: 0 auto;
-    background-color:black;
+    bbackground-color: #6d695c;
 background-image:
-radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
-radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
-radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
-radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
-background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px; 
-background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
-background-size: 100% 1.2em;
+repeating-linear-gradient(120deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
+repeating-linear-gradient(60deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
+linear-gradient(60deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1)),
+linear-gradient(120deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1));
+background-size: 70px 120px;
+
 /*	--------- FONT FAMILY --------
  	following are some optional font families. Usually a family 
 	is safer to choose than a specific font, 
