@@ -1,8 +1,6 @@
 body{
     margin: 0 auto;
-   .angled-gradient {
-  background: linear-gradient(70deg, lightpink, mediumturquoise);
-};
+   background-color: lightpink, mediumturquoise;
 
 	
 
